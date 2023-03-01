@@ -1,0 +1,13 @@
+*.txt
+
+*.conv.*
+logs/
+backup/
+__pycache__/
+
+data
+
+*.names
+*.data
+*.png
+*.jpg
